@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>My PDF Audiobooks</title>
-    <description>Local TTS files hosted from Windows PC</description>
+    <description>TTS files hosted on GitHub Pages</description>
+    <language>en-us</language>
+    <itunes:image href="https://via.placeholder.com/1400.png" />
+    <itunes:category text="Technology" />
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Current Book</title>
-      <enclosure url="https://pmiddlekauff.github.io/audiobooks/audiobook.mp3" type="audio/mpeg" length="1024" />
+      <description>Automated PDF to Audiobook</description>
+      <enclosure url="https://pmiddlekauff.github.io/audiobooks/audiobook.mp3" type="audio/mpeg" length="15000000" />
+      <guid isPermaLink="false">audiobook-file-001</guid>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
-
-
