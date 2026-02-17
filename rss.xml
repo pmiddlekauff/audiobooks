@@ -5,8 +5,9 @@
     <description>Local TTS files hosted from Windows PC</description>
     <item>
       <title>Current Book</title>
-      <enclosure url="http://192.168.0.232:8000/audiobook.mp3" type="audio/mpeg" length="1024" />
+      <enclosure url="https://pmiddlekauff.github.io/audiobooks/audiobook.mp3" type="audio/mpeg" length="1024" />
     </item>
   </channel>
 </rss>
+
 
