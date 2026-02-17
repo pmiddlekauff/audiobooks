@@ -1,0 +1,4 @@
+<item>
+  <title>My PDF Audiobook</title>
+  <enclosure url="http://192.168.1.232:8000/audiobook.mp3" type="audio/mpeg" />
+</item>
